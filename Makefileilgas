@@ -1,0 +1,6 @@
+prog:
+	gcc adsIlgas_main.c adsIlgas_func.c -o prog
+run:
+	./prog
+clean:
+	rm prog
